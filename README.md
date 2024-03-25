@@ -1,6 +1,6 @@
 # Book Recommendation System
 
-![Home Page](screenshots/home_page.png)
+![Home Page](home_page.png)
 *Figure 1: The home page displaying the top 50 books based on popularity.*
 
 ## Overview
