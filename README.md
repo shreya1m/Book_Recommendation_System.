@@ -5,6 +5,7 @@
 
 ![Recommend Page](Recommend_page.png)
 *Figure : The recommend page displaying the user searched book recommendations.*
+
 ## Overview
 The Book Recommendation System is a Flask-based web application that offers two main features:
 
@@ -30,9 +31,11 @@ In the "Recommend" tab, users can input a book title they are interested in. The
 - Flask
 - Pandas 2.2.1
 - Scikit-learn
+- HTML/CSS
+- Jinja(for HTML templating)
 
 
 ## Acknowledgements
-Special thanks to Kaggle for providing the book dataset used in this project.
+Special thanks to Kaggle for providing the latest book dataset used in this project.
 
 
