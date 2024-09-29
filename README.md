@@ -2,6 +2,7 @@
 
 ![Home Page](Home_page.png)
 *Figure : The home page displaying the top 50 books based on popularity.*
+
 ![Recommend Page](Recommened_page.png)
 *Figure : The recommend page displaying the user searched book recommendations.*
 ## Overview
